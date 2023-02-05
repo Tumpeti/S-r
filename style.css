@@ -155,4 +155,9 @@ tr:nth-child(even) {background-color: #a8a4a4;}
 }
 
 
+header h1{
+    
+    text-shadow: 1px 1px #000000;
+}
+
 }
